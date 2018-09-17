@@ -1,0 +1,20 @@
+{
+  "name": "prop-types-falsy",
+  "version": "0.1.0",
+  "description": "falsy values as prop types",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "prop-types",
+    "falsy"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
